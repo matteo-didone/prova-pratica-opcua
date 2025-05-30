@@ -1,0 +1,22 @@
+{
+  "version": 2,
+  "dgSpecHash": "9rq39TtVGFvTgnv90XaVb2FrjqZ381YRthfYg17c4IzAdce2qu3vJj8s14WLlPRpV+e+yjyiPlOcrlYa/qp5OA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Matteo Didonè\\OneDrive\\Desktop\\prova-pratica-opcua\\SmartBulbOpcUa.Server\\SmartBulbOpcUa.Server.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Matteo Didonè\\.nuget\\packages\\bouncycastle.cryptography\\2.5.1\\bouncycastle.cryptography.2.5.1.nupkg.sha512",
+    "C:\\Users\\Matteo Didonè\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\8.0.2\\microsoft.extensions.dependencyinjection.abstractions.8.0.2.nupkg.sha512",
+    "C:\\Users\\Matteo Didonè\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\8.0.2\\microsoft.extensions.logging.abstractions.8.0.2.nupkg.sha512",
+    "C:\\Users\\Matteo Didonè\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512",
+    "C:\\Users\\Matteo Didonè\\.nuget\\packages\\opcfoundation.netstandard.opc.ua\\1.5.376.213\\opcfoundation.netstandard.opc.ua.1.5.376.213.nupkg.sha512",
+    "C:\\Users\\Matteo Didonè\\.nuget\\packages\\opcfoundation.netstandard.opc.ua.client\\1.5.376.213\\opcfoundation.netstandard.opc.ua.client.1.5.376.213.nupkg.sha512",
+    "C:\\Users\\Matteo Didonè\\.nuget\\packages\\opcfoundation.netstandard.opc.ua.configuration\\1.5.376.213\\opcfoundation.netstandard.opc.ua.configuration.1.5.376.213.nupkg.sha512",
+    "C:\\Users\\Matteo Didonè\\.nuget\\packages\\opcfoundation.netstandard.opc.ua.core\\1.5.376.213\\opcfoundation.netstandard.opc.ua.core.1.5.376.213.nupkg.sha512",
+    "C:\\Users\\Matteo Didonè\\.nuget\\packages\\opcfoundation.netstandard.opc.ua.gds.client.common\\1.5.376.213\\opcfoundation.netstandard.opc.ua.gds.client.common.1.5.376.213.nupkg.sha512",
+    "C:\\Users\\Matteo Didonè\\.nuget\\packages\\opcfoundation.netstandard.opc.ua.gds.server.common\\1.5.376.213\\opcfoundation.netstandard.opc.ua.gds.server.common.1.5.376.213.nupkg.sha512",
+    "C:\\Users\\Matteo Didonè\\.nuget\\packages\\opcfoundation.netstandard.opc.ua.security.certificates\\1.5.376.213\\opcfoundation.netstandard.opc.ua.security.certificates.1.5.376.213.nupkg.sha512",
+    "C:\\Users\\Matteo Didonè\\.nuget\\packages\\opcfoundation.netstandard.opc.ua.server\\1.5.376.213\\opcfoundation.netstandard.opc.ua.server.1.5.376.213.nupkg.sha512",
+    "C:\\Users\\Matteo Didonè\\.nuget\\packages\\system.formats.asn1\\8.0.1\\system.formats.asn1.8.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}

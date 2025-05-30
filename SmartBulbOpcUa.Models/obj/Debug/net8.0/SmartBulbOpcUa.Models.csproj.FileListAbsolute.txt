@@ -1,0 +1,11 @@
+C:\Users\Matteo Didonè\OneDrive\Desktop\prova-pratica-opcua\SmartBulbOpcUa.Models\bin\Debug\net8.0\SmartBulbOpcUa.Models.deps.json
+C:\Users\Matteo Didonè\OneDrive\Desktop\prova-pratica-opcua\SmartBulbOpcUa.Models\bin\Debug\net8.0\SmartBulbOpcUa.Models.dll
+C:\Users\Matteo Didonè\OneDrive\Desktop\prova-pratica-opcua\SmartBulbOpcUa.Models\bin\Debug\net8.0\SmartBulbOpcUa.Models.pdb
+C:\Users\Matteo Didonè\OneDrive\Desktop\prova-pratica-opcua\SmartBulbOpcUa.Models\obj\Debug\net8.0\SmartBulbOpcUa.Models.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Matteo Didonè\OneDrive\Desktop\prova-pratica-opcua\SmartBulbOpcUa.Models\obj\Debug\net8.0\SmartBulbOpcUa.Models.AssemblyInfoInputs.cache
+C:\Users\Matteo Didonè\OneDrive\Desktop\prova-pratica-opcua\SmartBulbOpcUa.Models\obj\Debug\net8.0\SmartBulbOpcUa.Models.AssemblyInfo.cs
+C:\Users\Matteo Didonè\OneDrive\Desktop\prova-pratica-opcua\SmartBulbOpcUa.Models\obj\Debug\net8.0\SmartBulbOpcUa.Models.csproj.CoreCompileInputs.cache
+C:\Users\Matteo Didonè\OneDrive\Desktop\prova-pratica-opcua\SmartBulbOpcUa.Models\obj\Debug\net8.0\SmartBulbOpcUa.Models.dll
+C:\Users\Matteo Didonè\OneDrive\Desktop\prova-pratica-opcua\SmartBulbOpcUa.Models\obj\Debug\net8.0\refint\SmartBulbOpcUa.Models.dll
+C:\Users\Matteo Didonè\OneDrive\Desktop\prova-pratica-opcua\SmartBulbOpcUa.Models\obj\Debug\net8.0\SmartBulbOpcUa.Models.pdb
+C:\Users\Matteo Didonè\OneDrive\Desktop\prova-pratica-opcua\SmartBulbOpcUa.Models\obj\Debug\net8.0\ref\SmartBulbOpcUa.Models.dll
