@@ -63,6 +63,27 @@ Objects/
         └── [Struttura identica a Standard 001]
 ```
 
+## 📊 Diagrammi di Progettazione
+
+### Diagramma AddressSpace OPC UA
+![AddressSpace OPC UA](img/address-space-opcua.png)
+
+*Figura 1: Struttura gerarchica dell'AddressSpace OPC UA con NodeId completi e relazioni tra nodi*
+
+### Diagramma delle Classi UML  
+![Class Diagram UML](img/class-diagram-uml.png)
+
+*Figura 2: Modello object-oriented con ereditarietà BaseDevice → SmartBulb → SmartBulbPro/Standard*
+
+### Corrispondenza Diagrammi
+| Elemento UML | Elemento OPC UA | Implementazione |
+|--------------|-----------------|-----------------|
+| `BaseDevice` | Folder "Devices" | Container logico |
+| `SmartBulb` | Object nodes | Istanze dispositivi |
+| Proprietà classi | Variable nodes | State, Temperature, Brightness |
+| Metodi classi | Method nodes | TurnOn(), TurnOff(), SetBrightness() |
+| Istanze concrete | NodeId specifici | PRO_001, STD_001, STD_002 |
+
 ### Namespace Personalizzato
 - **URI**: `http://smartbulb.opcua.example/`
 - **Index**: 2
